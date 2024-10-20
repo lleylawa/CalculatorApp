@@ -14,7 +14,7 @@ To run the CalculatorApp, you need the following:
 ### Steps to Run:
 1. **Download the project files** or clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/lleylawa/CalculatorApp.git>
    ```
 2. **Open the project** in your preferred IDE or prepare the project files for execution in a JavaFX environment.
 
