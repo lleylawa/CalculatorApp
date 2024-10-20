@@ -1,6 +1,6 @@
 package org.example.calculator;
 
-public class Calculator {
+public class CalculatorApp {
 
     private double operand1;
     private double operand2;

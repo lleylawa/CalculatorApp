@@ -6,7 +6,7 @@ import javafx.scene.control.TextField;
 
 public class HelloController {
 
-    private  final Calculator calculator = new Calculator();
+    private  final CalculatorApp calculator = new CalculatorApp();
     private final StringBuilder input = new StringBuilder();
     private boolean startNewNumber = true;
 
